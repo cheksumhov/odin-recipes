@@ -1,0 +1,19 @@
+body {
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color: rgb(163, 204, 194);
+    margin-right: auto
+    margin-left: auto
+}
+
+h1 {
+    font-size: 38px;
+    text-align: center;
+    background-color: seashell;
+}
+
+h2 {
+    font-size: 28px;
+    text-align: center;
+    background-color: seashell;
+}
